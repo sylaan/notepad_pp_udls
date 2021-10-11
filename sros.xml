@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Nokia SROS" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="yes" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00# 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range">:</Keywords>
+            <Keywords name="Operators1">. / :</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">accept-orf&#x000D;&#x000A;access&#x000D;&#x000A;action&#x000D;&#x000A;active-flow-timeout&#x000D;&#x000A;add-paths&#x000D;&#x000A;address&#x000D;&#x000A;admin-status&#x000D;&#x000A;aggregate&#x000D;&#x000A;allow-ip-int-bind&#x000D;&#x000A;application&#x000D;&#x000A;area-id&#x000D;&#x000A;arp-timeout&#x000D;&#x000A;as-path-group&#x000D;&#x000A;as-path-prepend&#x000D;&#x000A;attempts&#x000D;&#x000A;authentication&#x000D;&#x000A;authentication-key&#x000D;&#x000A;authentication-order&#x000D;&#x000A;authentication-type&#x000D;&#x000A;authorization&#x000D;&#x000A;auto-bind-tunnel&#x000D;&#x000A;autonomous-system&#x000D;&#x000A;backup&#x000D;&#x000A;backup-path&#x000D;&#x000A;begin&#x000D;&#x000A;bfd&#x000D;&#x000A;bfd-enable&#x000D;&#x000A;bgp&#x000D;&#x000A;black-hole&#x000D;&#x000A;broadcast-queue&#x000D;&#x000A;cache-size&#x000D;&#x000A;card&#x000D;&#x000A;card-type&#x000D;&#x000A;cbs&#x000D;&#x000A;cflowd&#x000D;&#x000A;cflowd-parameters&#x000D;&#x000A;collector&#x000D;&#x000A;commit&#x000D;&#x000A;community&#x000D;&#x000A;console&#x000D;&#x000A;contact&#x000D;&#x000A;coordinates&#x000D;&#x000A;cpm-filter&#x000D;&#x000A;cpu-protection&#x000D;&#x000A;cspf-on-loose-hop&#x000D;&#x000A;customer&#x000D;&#x000A;default-action&#x000D;&#x000A;default-fc&#x000D;&#x000A;description&#x000D;&#x000A;dest-mac&#x000D;&#x000A;dist-cpu-protection&#x000D;&#x000A;drop&#x000D;&#x000A;drop-tail&#x000D;&#x000A;dscp&#x000D;&#x000A;dst-ip&#x000D;&#x000A;dst-port&#x000D;&#x000A;dst-zone&#x000D;&#x000A;dynamic-cost&#x000D;&#x000A;echo&#x000D;&#x000A;egress&#x000D;&#x000A;egress-hsmda&#x000D;&#x000A;encap-type&#x000D;&#x000A;end&#x000D;&#x000A;endpoint&#x000D;&#x000A;enforcement&#x000D;&#x000A;engineID&#x000D;&#x000A;entry&#x000D;&#x000A;epipe&#x000D;&#x000A;ethernet&#x000D;&#x000A;event-control&#x000D;&#x000A;exceed-action&#x000D;&#x000A;exit&#x000D;&#x000A;exponential-backoff&#x000D;&#x000A;export&#x000D;&#x000A;extended-community&#x000D;&#x000A;family&#x000D;&#x000A;far-end&#x000D;&#x000A;fast-reroute&#x000D;&#x000A;fc&#x000D;&#x000A;fdb-table-size&#x000D;&#x000A;filter&#x000D;&#x000A;fp&#x000D;&#x000A;fragment&#x000D;&#x000A;from&#x000D;&#x000A;group&#x000D;&#x000A;health-check&#x000D;&#x000A;hello-authentication-key&#x000D;&#x000A;hello-authentication-type&#x000D;&#x000A;hello-interval&#x000D;&#x000A;hold-time&#x000D;&#x000A;ibgp-multipath&#x000D;&#x000A;icmp&#x000D;&#x000A;idle-timeout&#x000D;&#x000A;import&#x000D;&#x000A;import-pmsi-routes&#x000D;&#x000A;indirect&#x000D;&#x000A;ingress&#x000D;&#x000A;interface&#x000D;&#x000A;interface-parameters&#x000D;&#x000A;interface-type&#x000D;&#x000A;ip-filter&#x000D;&#x000A;ip-mtu&#x000D;&#x000A;ip-prefix-list&#x000D;&#x000A;ipv4&#x000D;&#x000A;ipv6&#x000D;&#x000A;ipv6-filter&#x000D;&#x000A;ipv6-prefix-list&#x000D;&#x000A;ipv6-routing&#x000D;&#x000A;ipv6-unicast&#x000D;&#x000A;isis&#x000D;&#x000A;keep-alive&#x000D;&#x000A;lacp&#x000D;&#x000A;lag&#x000D;&#x000A;ldp&#x000D;&#x000A;level&#x000D;&#x000A;lldp&#x000D;&#x000A;local-address&#x000D;&#x000A;local-as&#x000D;&#x000A;local-ip-address&#x000D;&#x000A;local-preference&#x000D;&#x000A;location&#x000D;&#x000A;log&#x000D;&#x000A;log-id&#x000D;&#x000A;log-prefix&#x000D;&#x000A;login-control&#x000D;&#x000A;loopback&#x000D;&#x000A;low&#x000D;&#x000A;lsp&#x000D;&#x000A;lsp-exp&#x000D;&#x000A;lsp-exp-in-profile&#x000D;&#x000A;lsp-exp-out-profile&#x000D;&#x000A;lsp-lifetime&#x000D;&#x000A;lsp-refresh-interval&#x000D;&#x000A;lsp-wait&#x000D;&#x000A;mac-pinning&#x000D;&#x000A;match&#x000D;&#x000A;match-list&#x000D;&#x000A;maximum-paths&#x000D;&#x000A;mbs&#x000D;&#x000A;mda&#x000D;&#x000A;mda-type&#x000D;&#x000A;member&#x000D;&#x000A;members&#x000D;&#x000A;mesh-sdp&#x000D;&#x000A;metric&#x000D;&#x000A;min-route-advertisement&#x000D;&#x000A;mode&#x000D;&#x000A;mpls&#x000D;&#x000A;mtu&#x000D;&#x000A;multi-path&#x000D;&#x000A;multi-topology&#x000D;&#x000A;multicast-queue&#x000D;&#x000A;multiplier&#x000D;&#x000A;mvpn-ipv4&#x000D;&#x000A;name&#x000D;&#x000A;neighbor&#x000D;&#x000A;network&#x000D;&#x000A;network-queue&#x000D;&#x000A;no&#x000D;&#x000A;notification&#x000D;&#x000A;ntp&#x000D;&#x000A;ntp-server&#x000D;&#x000A;out-profile-rate&#x000D;&#x000A;outbound-route-filtering&#x000D;&#x000A;overload-on-boot&#x000D;&#x000A;p2mp-resignal-timer&#x000D;&#x000A;p2mp-s2l-fast-retry&#x000D;&#x000A;p2p-active-path-fast-retry&#x000D;&#x000A;packet-size&#x000D;&#x000A;password&#x000D;&#x000A;path&#x000D;&#x000A;path-computation-method&#x000D;&#x000A;path-mtu-discovery&#x000D;&#x000A;peer-as&#x000D;&#x000A;per-peer-queuing&#x000D;&#x000A;percent-reduction-from-mbs&#x000D;&#x000A;phone&#x000D;&#x000A;ping-reply&#x000D;&#x000A;policy&#x000D;&#x000A;policy-options&#x000D;&#x000A;policy-statement&#x000D;&#x000A;port&#x000D;&#x000A;port-parent&#x000D;&#x000A;power-supply&#x000D;&#x000A;pre-login-message&#x000D;&#x000A;prefix&#x000D;&#x000A;prefix-limit&#x000D;&#x000A;prefix-list&#x000D;&#x000A;preserve-key&#x000D;&#x000A;primary&#x000D;&#x000A;priority&#x000D;&#x000A;profile&#x000D;&#x000A;protocol&#x000D;&#x000A;protocol-protection&#x000D;&#x000A;qos&#x000D;&#x000A;queue&#x000D;&#x000A;queue-policy&#x000D;&#x000A;rapid-update&#x000D;&#x000A;rapid-withdrawal&#x000D;&#x000A;rate&#x000D;&#x000A;receive-interval&#x000D;&#x000A;redundancy&#x000D;&#x000A;reference-bandwidth&#x000D;&#x000A;remote-ip-address&#x000D;&#x000A;remove-private&#x000D;&#x000A;resignal-timer&#x000D;&#x000A;resolution&#x000D;&#x000A;resolution-filter&#x000D;&#x000A;rollback&#x000D;&#x000A;rollback-location&#x000D;&#x000A;route-distinguisher&#x000D;&#x000A;router&#x000D;&#x000A;router-id&#x000D;&#x000A;rsvp&#x000D;&#x000A;sample-profile&#x000D;&#x000A;sample-rate&#x000D;&#x000A;sampling&#x000D;&#x000A;sap&#x000D;&#x000A;sap-egress&#x000D;&#x000A;sap-ingress&#x000D;&#x000A;sdp&#x000D;&#x000A;security&#x000D;&#x000A;send-orf&#x000D;&#x000A;server&#x000D;&#x000A;service&#x000D;&#x000A;service-mtu&#x000D;&#x000A;sfm&#x000D;&#x000A;sfm-type&#x000D;&#x000A;shutdown&#x000D;&#x000A;snmp&#x000D;&#x000A;snmp-trap-group&#x000D;&#x000A;sntp&#x000D;&#x000A;source-address&#x000D;&#x000A;spf-wait&#x000D;&#x000A;split-horizon&#x000D;&#x000A;split-horizon-group&#x000D;&#x000A;spoke-sdp&#x000D;&#x000A;src-ip&#x000D;&#x000A;srlg-frr&#x000D;&#x000A;ssh&#x000D;&#x000A;ssm&#x000D;&#x000A;start&#x000D;&#x000A;static-policer&#x000D;&#x000A;static-route-entry&#x000D;&#x000A;stp&#x000D;&#x000A;streaming&#x000D;&#x000A;sync-e&#x000D;&#x000A;sync-if-timing&#x000D;&#x000A;synchronize&#x000D;&#x000A;syslog&#x000D;&#x000A;system&#x000D;&#x000A;tacplus&#x000D;&#x000A;tag&#x000D;&#x000A;targeted-session&#x000D;&#x000A;template-retransmit&#x000D;&#x000A;time&#x000D;&#x000A;time-format&#x000D;&#x000A;timeout&#x000D;&#x000A;timers&#x000D;&#x000A;to&#x000D;&#x000A;traceroute-reply&#x000D;&#x000A;traffic-engineering&#x000D;&#x000A;transmit-interval&#x000D;&#x000A;trap-target&#x000D;&#x000A;ttl-expired&#x000D;&#x000A;tx-mgmt-address&#x000D;&#x000A;tx-tlvs&#x000D;&#x000A;type&#x000D;&#x000A;unknown-queue&#x000D;&#x000A;user&#x000D;&#x000A;user-template&#x000D;&#x000A;vpls&#x000D;&#x000A;vpn-ipv4&#x000D;&#x000A;vpn-ipv6&#x000D;&#x000A;vprn&#x000D;&#x000A;vprn-network-exceptions&#x000D;&#x000A;vrf-export&#x000D;&#x000A;vrf-target&#x000D;&#x000A;vrrp&#x000D;&#x000A;wide-metrics-only&#x000D;&#x000A;zone</Keywords>
+            <Keywords name="Keywords2">access&#x000D;&#x000A;null&#x000D;&#x000A;dot1q&#x000D;&#x000A;qinq</Keywords>
+            <Keywords name="Keywords3">ipv4&#x000D;&#x000A;ipv6</Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&apos; 01 02&apos; 03&quot; 04 05&quot; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="3CA72C" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF0000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000B3" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF3CFF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="00FFFF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="8000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="00A600" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
